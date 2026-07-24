@@ -40,3 +40,12 @@ twitter: ""
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
+pages:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/projects"
+  - name: "About"
+    url: "/about"
+  - name: "Contact"
+    url: "/contact"
