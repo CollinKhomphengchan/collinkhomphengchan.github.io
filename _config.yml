@@ -22,3 +22,21 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+title: "Collin Khomphengchan"
+description: "Pre-Pharmacy student interested in CRISPR, gene editing, and healthcare accessibility."
+url: "https://collinkhomphengchan.github.io"
+baseurl: ""
+
+# Personal info
+name: "Collin Khomphengchan"
+email: "collinkhom@gmail.com"
+location: "Indiana, USA"
+
+# Social links
+github: "collinkhom"
+linkedin: "https://www.linkedin.com/in/collin-khomphengchan-196674276/"
+twitter: ""
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
