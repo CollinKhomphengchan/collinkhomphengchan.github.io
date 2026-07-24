@@ -2,7 +2,7 @@
 
 I’m a Pre-Pharmacy student at Purdue University with a strong interest in **CRISPR, gene editing, molecular genetics, and healthcare accessibility**.
 
-I built the **Elkhart Clinic Directory**, a community-focused project designed to make healthcare access simpler and more transparent for local residents. I’m passionate about combining biology, technology, and design to create tools that help people.
+I built the **Elkhart Health Finder**, a community-focused project designed to make healthcare access simpler and more transparent for local residents. I’m passionate about combining biology, technology, and design to create tools that help people.
 
 
 
